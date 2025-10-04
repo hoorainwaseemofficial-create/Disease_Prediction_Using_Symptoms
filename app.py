@@ -71,7 +71,7 @@ st.markdown("""
 # Paths
 MODEL_PATH = "models/disease_model.pkl"
 ENCODER_PATH = "models/label_encoder.pkl"
-TRAIN_PATH = "data/training.csv"
+TRAIN_PATH = "data/Training.csv"
 
 
 # Load model and encoder with error handling
